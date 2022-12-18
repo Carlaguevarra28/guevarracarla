@@ -1,0 +1,26 @@
+body{
+    margin-top: 5%;
+    background-image: url('pink.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    color: black;
+
+}
+   
+.about{
+    background-color: black;
+	color: pink;
+    margin-top: 10%;
+    border-radius: 20px;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    border: solid;
+    
+}
+
+button {
+	border: 2px solid pink;
+	border-radius: 15px;
+}
